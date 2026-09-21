@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Prusa Connect Camera Uninstall Script
-# https://github.com/Houzvicka/RPi-Prusa-Connect-Cam
+# https://github.com/fabiancgonzalez/Cam-Conf-RPi-Prusa-Connect-Cam-camera-configuration-v2/tree/main
 #
 
 set -e
