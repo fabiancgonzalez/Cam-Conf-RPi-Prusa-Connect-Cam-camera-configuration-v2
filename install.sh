@@ -15,7 +15,7 @@
 set -e
 
 INSTALL_DIR="/opt/prusa-cam"
-REPO_URL="https://github.com/MarekNajman/Cam-Conf-RPi-Prusa-Connect-Cam"
+REPO_URL="https://github.com/fabiancgonzalez/Cam-Conf-RPi-Prusa-Connect-Cam-camera-configuration-v2/tree/main"
 REPO_BRANCH="camera-configuration-v2"
 CONFIG_FILE="/etc/prusa_cam.conf"
 
